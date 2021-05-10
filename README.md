@@ -1,10 +1,10 @@
 # Scan your code with SonarQube
 
-Using this GitHub Action, scan your code with [SonarQube](https://www.sonarqube.org/) to detects bugs, vulnerabilities and code smells in more than 20 programming languages!
+Using this GitHub Action, scan your code with [SonarQube](https://www.sonarqube.org/) to detects Bugs, Vulnerabilities and Code Smells in up to 27 programming languages!
 
 <img src="./images/SonarQube-72px.png">
 
-SonarQube is the leading product for Continuous Code Quality & Code Security. It supports all major programming languages, including Java, JavaScript, TypeScript, C#, C/C++ and many more.
+SonarQube is the leading product for Continuous Code Quality & Code Security. It supports most popular programming languages, including Java, JavaScript, TypeScript, C#, Python, C, C++, and many more.
 
 ## Requirements
 
